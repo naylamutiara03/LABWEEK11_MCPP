@@ -1,0 +1,26 @@
+{
+  "name": "lab_week11_mcpp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo run:android",
+    "ios": "expo run:ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@react-native-firebase/app": "^21.5.0",
+    "expo": "~52.0.8",
+    "expo-status-bar": "~2.0.0",
+    "firebase": "^11.0.2",
+    "react": "18.3.1",
+    "react-native": "0.76.2",
+    "expo-image-picker": "~16.0.3",
+    "expo-media-library": "~17.0.2",
+    "expo-location": "~18.0.2"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
